@@ -15,10 +15,11 @@ public String hacerSonido(){
 return sonido ;
 
 
+
 }
 
+@Override
+public void dormir(){
 
-
-
-
+}
 }
